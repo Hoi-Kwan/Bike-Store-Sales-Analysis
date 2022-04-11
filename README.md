@@ -1,2 +1,4 @@
 # Bike-Store-Sales-Analysis
-Cleaned data and created a sales dashboard for a bike store from dimensions of gender, age group, and commute distance. 
+- Conducted data cleaning and formatting in Excel 
+- Analysed sales data from the dimension of gender, age groups, and commute distance using Pivot Table
+- Presented findings in a Excel interactive dashboard
